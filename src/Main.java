@@ -1,9 +1,7 @@
 
-public class Main{
-
-    static void main(String[] args) {
-//        new MyLabel();
-//        new MyPanel();
-        new MyButton();
-    }
-}
+void main(){
+//    new MyLabel();
+//    new MyPanel();
+//    new MyButton();
+    new MyBorderLayout();
+ }
