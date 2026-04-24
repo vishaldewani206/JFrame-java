@@ -5,5 +5,6 @@ void main(){
 //    new MyButton();
 //    new MyBorderLayout();
 //  new MyFlowLayout();
-  new MyGridLayout();
+//  new MyGridLayout();
+    new MyLayeredPane();
  }
